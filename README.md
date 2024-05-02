@@ -154,6 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+# Duncan mwangi<duncanmwangikinuthia@gmail.com
+#Nick Otieno
 
 ## License
 Public Domain. No copy write protection. 
